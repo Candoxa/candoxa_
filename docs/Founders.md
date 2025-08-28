@@ -18,6 +18,7 @@ Kavod brings years of experience in Web2 marketing, blockchain strategy, communi
 
 He noticed that blockchain preserved tokens but ignored culture, that value was tracked but presence was erased. From this realization, the vision for Candoxa was born — a chain that secures not just assets, but memory itself. His background in strategic leadership ensures Candoxa is built with foresight, technical rigor, and resilience for the quantum era.  
 
+contact: https://x.com/adekoyabest
 ---
 
 ### **Rhodah — Co-Founder & Culture Lead**
@@ -26,3 +27,5 @@ Rhodah comes from a background in storytelling, brand development, and cultural 
 Her leadership in the JogNetwork community proved what Candoxa would later embody: a space where creators, developers, and everyday voices could connect and grow. That experience shaped her conviction that communities thrive not when the loudest dominate, but when every voice is recognized and remembered.  
 
 At Candoxa, she ensures that identity, culture, and recognition are not afterthoughts but foundational. Her expertise allows Candoxa to carry a clear, human narrative — making it not only a blockchain but a cultural archive.  
+
+contact: https://x.com/justmrsrhodah
