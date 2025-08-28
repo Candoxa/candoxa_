@@ -21,7 +21,17 @@ Candoxa is building the first gifting economy, where recognition flows not to st
 
 ## Contributing
 We welcome contributions from builders, creators, and community members.  
-See our [Contributing Guide](./CONTRIBUTING.md) to get started.  
+See our [Contributing Guide](./CONTRIBUTING.md) to get started. 
+
+
+## Introduction
+* [About Candoxa](About.md)
+* [Founders](Founders.md)
+
+## Core Documents
+* [Whitepaper](whitepaper.md)
+* [Roadmap](roadmap.md)
+* [Pitch](pitch.md)
 
 ---
 
