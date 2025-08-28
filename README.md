@@ -4,17 +4,8 @@
 We preserve presence and culture by transforming every opinion into a permanent, verifiable **Memory Proof.**
 
 Built to withstand the quantum era, Candoxa amplifies voices and unifies finance, culture, and growth on a single chain.  
-**Every opinion remembered. Every presence valued. Every signal secured.**
+**Every opinion remembered. Every presence valued. 
 
----
-
-## Quick Links
-- 📖 [About Us](./docs/ABOUT.md)  
-- 📄 [Whitepaper](./docs/WHITEPAPER.md)  
-- 🛠️ [Roadmap](./docs/ROADMAP.md)  
-- 🎯 [Pitch](./docs/PITCH.md)  
-
----
 
 ## Our Mission
 To preserve presence and culture in the digital age, turning opinions into **lasting memory** and recognition into **gifts.**  
